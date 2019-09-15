@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Portfolio>
+    <PortfolioName>ABC</PortfolioName>
+    <Stock>
+        <StockName>GOOG</StockName>
+        <BuyDate/>
+        <BuyPrice>0.0</BuyPrice>
+        <BuyQuantity>100.0</BuyQuantity>
+        <CommissionFee>0.0</CommissionFee>
+    </Stock>
+    <Stock>
+        <StockName>AAPL</StockName>
+        <BuyDate>Thu Feb 14 00:00:00 EST 2019</BuyDate>
+        <BuyPrice>170.8</BuyPrice>
+        <BuyQuantity>29.215456674473067</BuyQuantity>
+        <CommissionFee>10.0</CommissionFee>
+    </Stock>
+</Portfolio>

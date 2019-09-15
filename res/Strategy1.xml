@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Strategy>
+    <StrategyName>StrategyOne</StrategyName>
+    <PortfolioName>ABC</PortfolioName>
+    <Amount>2000.0</Amount>
+    <CommissionFee>20.0</CommissionFee>
+    <StartDate>Thu Feb 14 00:00:00 EST 2019</StartDate>
+    <EndDate>Mon Apr 15 00:00:00 EDT 2019</EndDate>
+    <Frequency>30</Frequency>
+    <StockWeights>
+        <StockName>GOOG</StockName>
+        <StockWeight>30.0</StockWeight>
+    </StockWeights>
+    <StockWeights>
+        <StockName>AAPL</StockName>
+        <StockWeight>70.0</StockWeight>
+    </StockWeights>
+</Strategy>
